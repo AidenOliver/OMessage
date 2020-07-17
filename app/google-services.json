@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "11359120980",
+    "firebase_url": "https://omessage-8eed1.firebaseio.com",
+    "project_id": "omessage-8eed1",
+    "storage_bucket": "omessage-8eed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11359120980:android:1588e7b3d5f1f87451c7c1",
+        "android_client_info": {
+          "package_name": "com.example.omessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11359120980-1p7d7483r08ocpqth5h9seudepa0ts94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_NZtvZlZFV3Eupmu1Qai9rCJ8-1FsttM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11359120980-1p7d7483r08ocpqth5h9seudepa0ts94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
